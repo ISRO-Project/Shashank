@@ -107,7 +107,6 @@ There are several types of processors, each with its own architecture and charac
 - Historically used in personal computers and workstations.
 - Popular in the 1980s and 1990s.
 - Examples: Motorola 68000 series.
-123
 
 ### 10. Zilog Z80 Architecture:
 - Popular in the late 1970s and 1980s, especially in home computers and embedded systems.
