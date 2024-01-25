@@ -1,5 +1,7 @@
 # BUS architecture
 
+![image](https://github.com/ISRO-Project/Shashank/assets/79470436/5155e390-46af-412f-ab27-05f8bed7487c)
+
 ## 1. AMBA (Advanced Microcontroller Bus Architecture):
 
 - Developed by Arm Holdings, AMBA is a widely adopted on-chip interconnect standard for Arm processors.
