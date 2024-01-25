@@ -1,6 +1,6 @@
 # BUS architecture
 
-![image](https://github.com/ISRO-Project/Shashank/assets/79470436/5155e390-46af-412f-ab27-05f8bed7487c)
+![test](https://github.com/ISRO-Project/Shashank/assets/79470436/18a17fc0-536a-43bb-a02f-d415827a7463)
 
 ## 1. AMBA (Advanced Microcontroller Bus Architecture):
 
