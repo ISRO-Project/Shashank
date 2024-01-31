@@ -46,15 +46,32 @@ The above command are to be run on terminal. This is used to activate the ports 
 - [Xillinx Vitis Introduction| Hello World with Vitis](https://www.youtube.com/watch?v=LU9hP7KLDgE&t=452s)
 - [FSBL Creation and Source Debug in Xilinx Vitis 2019.2](https://www.css-techhelp.com/post/fsbl-creation-and-source-debug-in-xilinx-vitis-2019-2)
 
-# Day2
+# Day 2
 
 ## Work assigned
 
 - Tool flow of Vitis and Vivado
-- Printing Hello World
+- Complete Hello World
 
 ## Work Completed
 
-### Completed the Hello World Excercise
+- Completed the Hello World Excercise
+- Learnt about FSBL , .xsa , build and debug parameters
 
-###
+
+
+# Day 3
+
+## Worked assigned
+- Connect the CuteCom to the board and print hello world instead of vitis terminal 
+- Do some operation on GPIO 
+- Interactive mode , that is take user input and print result accordingly 
+- Write basic VHDL code and change the output on GPIO with respect to commands 
+
+## worked complete 
+- Connected the CuteCom 
+- We tried to do the GPIO operation but we dont have the bsp file for the zcu102 which is the board support package for zcu102.
+
+
+## Work pending 
+- Download the bsp for zcu102 and complete the gpio task
