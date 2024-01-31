@@ -22,7 +22,7 @@
 ```
 The above command are to be run on terminal. This is used to activate the ports for vitis terminal but for CuteCom the ports are always listening just have to connect to the right 
 ### The videos we referred :-
-(Hello world video using Xilinx Zynq, Vivado 2020, and Vitis)[https://www.youtube.com/watch?v=Mb-cStd4Tqs]
+[Hello world video using Xilinx Zynq, Vivado 2020, and Vitis](https://www.youtube.com/watch?v=Mb-cStd4Tqs)
 
 
 # Day2
