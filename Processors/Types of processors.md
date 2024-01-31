@@ -118,5 +118,5 @@ There are several types of processors, each with its own architecture and charac
 
 ## Our main focus is on x86 , RISCV , ARM , CISC
 
-### x86:- 
+
 
