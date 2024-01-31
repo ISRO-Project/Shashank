@@ -1,11 +1,12 @@
 # Day 1
 
 ## Work assigned
-- Tool flow of Vitis and Vivado 
+
+- Tool flow of Vitis and Vivado
 - Printing Hello World
 
-
 ## Work Completed
+
 ### Steps to follow are:-
 
 - Step 1:- Open ternimal and enter the path listed in first.sh which is in Home/Gaurav/Work directory , and then start vitis
@@ -24,17 +25,36 @@
   '''
   The above command are to be run on terminal. This is used to activate the ports for vitis terminal but for CuteCom the ports are always listening just have to connect to the right
 
-## Work pending 
+## Work pending
+
 - We had to complete the Hello world exercise because of FSBL error
 
+- For vitis terminal we first had to run
+
+```bash
+    sudo chmod 666 /dev/ttyUSB0
+    sudo chmod 666 /dev/ttyUSB1
+    sudo chmod 666 /dev/ttyUSB2
+    sudo chmod 666 /dev/ttyUSB3
+```
+
+The above command are to be run on terminal. This is used to activate the ports for vitis terminal but for CuteCom the ports are always listening just have to connect to the right
+
+### The videos we referred :-
+
+- [Hello world video using Xilinx Zynq, Vivado 2020, and Vitis](https://www.youtube.com/watch?v=Mb-cStd4Tqs)
+- [Xillinx Vitis Introduction| Hello World with Vitis](https://www.youtube.com/watch?v=LU9hP7KLDgE&t=452s)
+- [FSBL Creation and Source Debug in Xilinx Vitis 2019.2](https://www.css-techhelp.com/post/fsbl-creation-and-source-debug-in-xilinx-vitis-2019-2)
 
 # Day2
 
 ## Work assigned
-- Tool flow of Vitis and Vivado 
+
+- Tool flow of Vitis and Vivado
 - Printing Hello World
 
 ## Work Completed
 
-### Completed the Hello World Excercise 
-### 
+### Completed the Hello World Excercise
+
+###
