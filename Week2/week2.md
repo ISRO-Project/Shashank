@@ -58,6 +58,9 @@ The above command are to be run on terminal. This is used to activate the ports 
 - Completed the Hello World Excercise
 - Learnt about FSBL , .xsa , build and debug parameters
 
+### Materials used 
+- [ZCU102 Evaluation Board](https://www.xilinx.com/support/documents/boards_and_kits/zcu102/ug1182-zcu102-eval-bd.pdf)
+- Detailed understanding on processors is in folder [Processors](https://github.com/ISRO-Project/Shashank/blob/main/Processors)
 
 
 # Day 3
