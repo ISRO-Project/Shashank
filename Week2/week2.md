@@ -14,15 +14,15 @@
 - Step 5:- After building the program , run the Debug as -> Run as Hardware where the code will be dumped on the board and hence the output will be seen on either CuteCom or Vitis Terminal (only one out of both will show the output).
 - In order to see the output we have to try to see what USB port the board is responding.
 - For vitis terminal we first had to run 
-''' bash
+``` bash
     sudo chmod 666 /dev/ttyUSB0
     sudo chmod 666 /dev/ttyUSB1
     sudo chmod 666 /dev/ttyUSB2
     sudo chmod 666 /dev/ttyUSB3
-'''
+```
 The above command are to be run on terminal. This is used to activate the ports for vitis terminal but for CuteCom the ports are always listening just have to connect to the right 
-
-
+### The videos we referred :-
+(Hello world video using Xilinx Zynq, Vivado 2020, and Vitis) [https://www.youtube.com/watch?v=Mb-cStd4Tqs]
 
 
 # Day2
