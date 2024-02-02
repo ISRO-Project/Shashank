@@ -78,3 +78,25 @@ The above command are to be run on terminal. This is used to activate the ports 
 
 ## Work pending 
 - Download the bsp for zcu102 and complete the gpio task
+
+
+# Day 4 and 5(half day)
+
+## Worked assigned
+- We were asked to do the GPIO project where we had to test the and gate using the led lights as output and switch as input of the board
+- Counter, where we were suppose to take a keyboard input and communicate using UART , and print the designated output on CuteCom , but the only changes we are adding in this is not only the output on the CuteCom would be seen but the designated  LED's would light up
+
+
+## worked complete 
+- We Finished the GPIO block using a AND Gate.
+- learnt about the petalinux and also [downloaded](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/embedded-design-tools/2022-1.html) the ecessary files for using the petalinux
+
+
+## Work pending 
+- Completing the keyboard input and show the output on CuteCom and the board LED's.
+
+### Sources 
+   - [Introductory project (Blinking Leds) to Zynq 7000, with Vivado and SDK. Part 1](https://www.youtube.com/watch?v=6ZNLRrKZCL0)
+   - [ZCU102 Evaluation Board](https://www.xilinx.com/support/documents/boards_and_kits/zcu102/ug1182-zcu102-eval-bd.pdf)
+   - [ZCU102 Evaluation Board](https://www.mouser.com/datasheet/2/903/ug1182-zcu102-eval-bd-1596125.pdf)
+   - xdc file for zcu102 board.
